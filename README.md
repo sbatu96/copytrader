@@ -1,2 +1,1 @@
-# copytrader
-CopyTrade Bot for Binance
+This project is for teaching programming to newcomers.
