@@ -1,0 +1,58 @@
+.butonlar{
+	width: 200px;
+	height: 100px;
+	margin-left : 500px;
+	margin-top : 50px;
+}
+
+body{
+	background-color : lightblue;
+}
+
+.btn{
+	width: 90px;
+	height: 30px;
+}
+
+.buybutton{
+
+	width:50px;
+	height:50px;
+}
+
+.sellbutton{
+
+	width:50px;
+	height:50px;
+	
+	margin-left:110px;
+	margin-top:-50px;
+}
+
+.itn{
+	width:100px;
+	height:10px;
+}
+.amount{
+	margin-left:50px;
+}
+
+.coinpairs{
+
+	width:300px;
+	height:100px;
+	margin-left: 500px;
+	margin-top:100px;
+}
+
+.itt{
+	margin-top:40px;
+	width:100px;
+	height:50px;
+}
+.degerler{
+	
+	height:500px;
+	width:500px;
+	margin-left:50px;
+}
